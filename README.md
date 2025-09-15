@@ -84,7 +84,7 @@ vendor-performance-analysis/
 
 Here are some snapshots from the **Power BI Vendor Performance Dashboard**:  
 
-![Dashboard Cover](C:/Users/megha/OneDrive/POWERBI/vendor sales summary dashboard.pdf)  
+![Dashboard Cover](vendorperformance.png)  
 
 ---
 
