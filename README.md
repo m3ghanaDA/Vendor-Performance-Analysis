@@ -82,8 +82,6 @@ vendor-performance-analysis/
 
 ## 📈 Dashboard Preview  
 
-Here are some snapshots from the **Power BI Vendor Performance Dashboard**:  
-
 ![Dashboard Cover](vendorperformance.png)  
 
 ---
