@@ -337,15 +337,7 @@ Vendor performance groups exhibit statistically significant differences in profi
 
 ## 📷 Dashboard Preview
 
-Add screenshots of your Power BI dashboard here.
-
-```text
-/dashboard-images/dashboard-overview.png
-/dashboard-images/vendor-analysis.png
-/dashboard-images/inventory-analysis.png
-```
-
----
+![Project Workflow](vendorperformance.png)
 
 ## 🚀 Project Outcomes
 
